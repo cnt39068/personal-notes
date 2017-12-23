@@ -9,5 +9,5 @@
     * [Openstack](dev/openstack.md)
     * [python](dev/python.md)
     * [Debian](dev/debian.md)
-* [各种技巧](dev/tips.md)
+* [各种技巧](tips.md)
 
