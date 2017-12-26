@@ -10,4 +10,6 @@
     * [python](dev/python.md)
     * [Debian](dev/debian.md)
 * [各种技巧](tips.md)
+* [Android](android/README.md)
+    * [fastboot](android/fastboot.md)
 
