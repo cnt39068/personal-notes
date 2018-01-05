@@ -12,4 +12,6 @@
 * [各种技巧](tips.md)
 * [Android](android/README.md)
     * [fastboot](android/fastboot.md)
+* [Erlang](erlang/README.md)
+    * [Learning](erlang/learning.md)
 
